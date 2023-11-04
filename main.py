@@ -1,1 +1,1 @@
-Hello Resolute 
+Hello 
